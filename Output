@@ -1,4 +1,4 @@
-# Firewall rules created by https://github.com/amarildojr
+# Firewall rules created by https://github.com/amanda-santini
 
 # Drop everything
 iptables -P OUTPUT  DROP
